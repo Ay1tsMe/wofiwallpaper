@@ -1,6 +1,6 @@
 # Wallpaper Dmenu in Wofi
 
-![Demo](wallpaperwofi.gif)
+![Demo](https://picoshare.tuxtower.net/-CVVtTauDdL)
 
 This a bash script that grabs contents from your wallpapers directory and displays in dmenu mode with wofi
 
