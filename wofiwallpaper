@@ -10,7 +10,7 @@ get_prefix() {
     if [ -d "$item_path" ]; then
         echo "📁"
     elif [ -f "$item_path" ]; then
-        echo "🖼"
+        echo "🎨"
     fi
 }
 
