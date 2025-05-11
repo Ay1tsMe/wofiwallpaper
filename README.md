@@ -13,3 +13,6 @@ The bash script runs as follows:
 
 (If required, change the `BASE_DIR` variable to the directory of your wallpapers and change the `walset` script to whatever wallpaper set script you use)
 
+## Rofi Version
+If you want to use this script with rofi, there is a rofi version you can use [here.](https://github.com/Ay1tsMe/rofiwallpaper)
+
